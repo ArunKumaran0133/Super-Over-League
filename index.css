@@ -1,0 +1,19 @@
+.heading {
+  color: #f8fafc;
+  font-family: "Roboto";
+  font-size: 35px;
+}
+.image {
+  width: 250px;
+  height: 250px;
+}
+
+.bg-container {
+  background-color: black;
+  padding: 10px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
